@@ -47,10 +47,6 @@ The system keeps one connected record of a criminal case from the first report a
 |---|---|
 | **Project** | FIR and Criminal Case Management System |
 | **Field** | Criminology and Criminal Justice |
-| **Course** | Database Management Systems |
-| **Student(s)** | _add names here_ |
-| **Instructor** | _add name here_ |
-| **Institution** | _add institution here_ |
 | **DBMS** | MySQL 8.0.16 or newer (InnoDB, utf8mb4) |
 | **Tools** | MySQL Workbench or the `mysql` command line, Git, Python 3 and Graphviz (only to regenerate the documents) |
 
